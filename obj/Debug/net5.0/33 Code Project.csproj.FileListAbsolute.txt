@@ -1,0 +1,16 @@
+/home/dani/Desktop/33 Code Project/bin/Debug/net5.0/33 Code Project
+/home/dani/Desktop/33 Code Project/bin/Debug/net5.0/33 Code Project.deps.json
+/home/dani/Desktop/33 Code Project/bin/Debug/net5.0/33 Code Project.runtimeconfig.json
+/home/dani/Desktop/33 Code Project/bin/Debug/net5.0/33 Code Project.runtimeconfig.dev.json
+/home/dani/Desktop/33 Code Project/bin/Debug/net5.0/33 Code Project.dll
+/home/dani/Desktop/33 Code Project/bin/Debug/net5.0/ref/33 Code Project.dll
+/home/dani/Desktop/33 Code Project/bin/Debug/net5.0/33 Code Project.pdb
+/home/dani/Desktop/33 Code Project/obj/Debug/net5.0/33 Code Project.csproj.AssemblyReference.cache
+/home/dani/Desktop/33 Code Project/obj/Debug/net5.0/33 Code Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/dani/Desktop/33 Code Project/obj/Debug/net5.0/33 Code Project.AssemblyInfoInputs.cache
+/home/dani/Desktop/33 Code Project/obj/Debug/net5.0/33 Code Project.AssemblyInfo.cs
+/home/dani/Desktop/33 Code Project/obj/Debug/net5.0/33 Code Project.csproj.CoreCompileInputs.cache
+/home/dani/Desktop/33 Code Project/obj/Debug/net5.0/33 Code Project.dll
+/home/dani/Desktop/33 Code Project/obj/Debug/net5.0/ref/33 Code Project.dll
+/home/dani/Desktop/33 Code Project/obj/Debug/net5.0/33 Code Project.pdb
+/home/dani/Desktop/33 Code Project/obj/Debug/net5.0/33 Code Project.genruntimeconfig.cache
